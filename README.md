@@ -1,5 +1,10 @@
 # Predict Health Insurance Cross Sell
 
+The current project addresses a problem of predicting Health Insurance cross sell e Vehicle Insurance provided by the our client company.
+
+![vist Card](https://cdn.discordapp.com/attachments/1184298104833454100/1184301094017441943/5b7509aa-d617-4ee7-94e2-20cd4abda253.jpg?ex=658b7958&is=65790458&hm=75fe1b762f895f89a503f18967a60f028dffd373be80d5ce7284f31aebf0ea60&)
+
+
 ## Table of Contents
 
 - [1. Business Proposition](#1-business-proposition)
