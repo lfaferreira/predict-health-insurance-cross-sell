@@ -24,6 +24,10 @@ The current project addresses a problem of predicting Health Insurance cross sel
 
 ## 1. Business Proposition
 
+The dataset belongs to a health insurance company. The company aims to expand its business by offering automobile insurance and wants to start with customers who already have health insurance. Developing a machine learning model will increase the accuracy of determining which customers to offer automobile insurance to.
+
+The central idea is to use the model to classify customers with a higher probability of being interested in purchasing automobile insurance, enhancing the effectiveness of business expansion strategies by directing them more precisely and personally.
+
 ## 2. Data Understanding
 
 ## 3. Action Plan
