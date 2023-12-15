@@ -30,6 +30,22 @@ The central idea is to use the model to classify customers with a higher probabi
 
 ## 2. Data Understanding
 
+| Variable              | Description                                                                      | Type    |
+|-----------------------|----------------------------------------------------------------------------------|---------|
+| id                    | Unique ID for the customer                                                       | int64   |
+| gender                | Gender of the customer                                                           | object  |
+| age                   | Age of the customer                                                              | int64   |
+| driving_license       | Indicates whether the customer has a driving license (0: No, 1: Yes)             | int64   |
+| region_code           | Unique code for the region of the customer                                       | float64 |
+| previously_insured    | Indicates whether the customer already has vehicle insurance (0: No, 1: Yes)     | int64   |
+| vehicle_age           | Age of the Vehicle                                                               | object  |
+| vehicle_damage        | Indicates whether the customer's vehicle was damaged in the past (0: No, 1: Yes) | object  |
+| annual_premium        | The amount the customer needs to pay as premium in the year                      | float64 |
+| policy_sales_channel  | Anonymized code for the channel of outreach to the customer                      | float64 |
+| vintage               | Number of days the customer has been associated with the company                 | int64   |
+| response              | Indicates customer interest (0: No, 1: Yes)                                      | int64   |
+
+
 ## 3. Action Plan
 
 ### 3.1. End Goal
