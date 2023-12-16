@@ -29,6 +29,9 @@ The dataset belongs to a health insurance company. The company aims to expand it
 The central idea is to use the model to classify customers with a higher probability of being interested in purchasing automobile insurance, enhancing the effectiveness of business expansion strategies by directing them more precisely and personally.
 
 ## 2. Data Understanding
+The **Health Insurance Cross Sell dataset**, available on [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction), is divided into training and test files. The training dataset comprises **381,109 rows and 12 columns**, where the data is categorized into numerical and categorical variables, with no missing data.
+
+The dictionary of names for the training file is as follows:
 
 | Variable              | Description                                                                      | Type    |
 |-----------------------|----------------------------------------------------------------------------------|---------|
