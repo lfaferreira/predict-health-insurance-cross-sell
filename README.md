@@ -4,7 +4,6 @@ The current project addresses a problem of predicting Health Insurance cross sel
 
 ![vist Card](https://cdn.discordapp.com/attachments/1184298104833454100/1184301094017441943/5b7509aa-d617-4ee7-94e2-20cd4abda253.jpg?ex=658b7958&is=65790458&hm=75fe1b762f895f89a503f18967a60f028dffd373be80d5ce7284f31aebf0ea60&)
 
-
 ## Table of Contents
 
 - [1. Business Proposition](#1-business-proposition)
@@ -21,7 +20,6 @@ The current project addresses a problem of predicting Health Insurance cross sel
 
 - [7. Future Work](#7-future-work)
 
-
 ## 1. Business Proposition
 
 The dataset belongs to a health insurance company. The company aims to expand its business by offering automobile insurance and wants to start with customers who already have health insurance. Developing a machine learning model will increase the accuracy of determining which customers to offer automobile insurance to.
@@ -29,6 +27,7 @@ The dataset belongs to a health insurance company. The company aims to expand it
 The central idea is to use the model to classify customers with a higher probability of being interested in purchasing automobile insurance, enhancing the effectiveness of business expansion strategies by directing them more precisely and personally.
 
 ## 2. Data Understanding
+
 The **Health Insurance Cross Sell dataset**, available on [Kaggle](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction), is divided into training and test files. The training dataset comprises **381,109 rows and 12 columns**, where the data is categorized into numerical and categorical variables, with no missing data.
 
 The dictionary of names for the training file is as follows:
@@ -47,7 +46,6 @@ The dictionary of names for the training file is as follows:
 | policy_sales_channel  | Anonymized code for the channel of outreach to the customer                      | float64 |
 | vintage               | Number of days the customer has been associated with the company                 | int64   |
 | response              | Indicates customer interest (0: No, 1: Yes)                                      | int64   |
-
 
 ## 3. Action Plan
 
@@ -71,7 +69,6 @@ The dictionary of names for the training file is as follows:
 
 **Step 7. Evaluation:**
 
-
 ## 4. Extracted Insights
 
 ## 5. Machine Learning Models and Evaluation Metrics
@@ -82,8 +79,6 @@ The dictionary of names for the training file is as follows:
 
 ### Model Performance Metrics
 
-
 ### Total Sales for the Network
 
 ## 7. Future Work
-
